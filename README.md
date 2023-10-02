@@ -2,7 +2,7 @@
 ## Features
 
 - Creates a command to send your current coordinates to a specified discord webhook.
-
+- For 1.20.2
 
 ## Installation
 
