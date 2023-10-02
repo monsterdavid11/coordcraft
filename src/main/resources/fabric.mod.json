@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "cordcraft",
+	"version": "${version}",
+	"name": "CordCraft",
+	"description": "Sends the coordinates of the player to a discord webhook!",
+	"authors": [
+		"Six"
+	],
+	"contact": {
+		"sources": "https://github.com/monsterdavid11/coordcraft"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/cordcraft/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"six.cordcraft.CordCraft"
+		]
+	},
+
+	"depends": {
+		"fabricloader": ">=0.14.22",
+		"minecraft": "~1.20.2",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
