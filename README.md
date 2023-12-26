@@ -3,6 +3,7 @@
 
 - Creates a command to send your current coordinates to a specified discord webhook.
 - For 1.20.2, server-side, works on singleplayer
+- https://www.curseforge.com/minecraft/mc-mods/coordcraft
 
 ## Installation
 
